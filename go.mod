@@ -47,3 +47,5 @@ require (
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
+
+replace github.com/lf-edge/eve-api/go => github.com/rucoder/eve-api/go v0.0.0-20260727171028-5754a1a3a707
